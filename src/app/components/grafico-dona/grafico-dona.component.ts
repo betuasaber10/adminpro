@@ -12,7 +12,7 @@ export class GraficoDonaComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    console.log ( this.grafico );
+    //console.log ( this.grafico );
   }
 
 }

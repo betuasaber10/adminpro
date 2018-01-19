@@ -38,5 +38,4 @@ export class Graficas1Component implements OnInit {
 
   ngOnInit() {
   }
-  
 }
